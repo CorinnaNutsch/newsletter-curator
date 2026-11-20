@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Claude Code (machine-specific)
+.claude/settings.local.json
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+credentials.json
+token.json
+*.pem
+
+# Personal data: keep raw newsletters and feedback local
+data/
+*.mbox
+*.eml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/

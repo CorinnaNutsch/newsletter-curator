@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "jupyter.askForKernelRestart": false,
+    "notebook.lineNumbers": "on",
+    "github.copilot.advanced": {},
+    "claudeCode.preferredLocation": "panel",
+    "claudeCode.useTerminal": true,
+    "claudeCode.hideOnboarding": true,
+    "editor.inlineSuggest.enabled": false,
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    }
+}
