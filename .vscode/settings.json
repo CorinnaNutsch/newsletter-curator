@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Default Dark+",
+    "workbench.colorTheme": "Dark+",
     "jupyter.askForKernelRestart": false,
     "notebook.lineNumbers": "on",
     "github.copilot.advanced": {},
