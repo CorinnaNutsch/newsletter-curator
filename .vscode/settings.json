@@ -10,5 +10,8 @@
     "editor.formatOnSave": true,
     "[python]": {
         "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "[html]": {
+        "editor.formatOnSave": false
     }
 }
