@@ -83,7 +83,7 @@ flowchart LR
 | B | An **article link** inside an issue | Fine-grained, matches what is actually read | Needs good parsing, links are messy (tracking URLs) |
 | C | Both | Rank issues and links | More work |
 
-The issue stays as context: each item keeps its source, issue and position. Not yet tested: newsletters with no links, only text (none among the spike sources).
+**Sponsored items (2026-11-25):** a sponsored article listed among the other articles (Data Elixir: title, blurb, `// sponsored` label) **is an item**, marked with `sponsored: true`. Its call-to-action link and separate ad blocks are not. This changes the data spike labels, so the item counts in ADR 0001 do not include sponsored items. The issue stays as context: each item keeps its source, issue and position. Not yet tested: newsletters with no links, only text (none among the spike sources).
 
 **Cross-newsletter grouping:** the same article often appears in several newsletters. Merge these by canonical URL into **one item with a list of mentions** (which newsletters, which issue). The number of **distinct sources** per item is a popularity signal that needs no feedback. Similar articles with different URLs are grouped later by **topic clustering** on embeddings. Distinct-source count measures what the newsletter world cares about, not what the user cares about, so keep it separate from relevance in the evaluation.
 
