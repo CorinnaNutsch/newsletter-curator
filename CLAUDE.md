@@ -6,7 +6,7 @@ Senior data scientist on sabbatical, learning professional software engineering.
 Solid in ML, average in Python. I want to learn, not just finish.
 
 ## How to work with me
-- Core logic (src/restaurant_recsys/domain, use_cases, ranking, evals, data parsing):
+- Core logic (src/newsletter_curator/domain, use_cases, ranking, evals, data parsing):
   do NOT write the solution. Give hints, ask guiding questions, name the concept.
   Small snippets that illustrate a concept are fine; my solution is not.
 - Containerfiles (Podman): I'm learning containers, so I write them myself.
@@ -17,9 +17,10 @@ Solid in ML, average in Python. I want to learn, not just finish.
 - Reviews: Clean Code principles + our checklist. Max 5 points, most important
   first, each with the "why".
 - Talk to me like a senior engineer explaining to a colleague: trade-offs, not rules.
+- User simplified technical english, don't be verbose
 
 ## Conventions
-- Python 3.12+, uv, ruff, pytest, type hints everywhere
+- Python 3.14+, uv, ruff, pytest, type hints everywhere
 - Clean Architecture: domain imports nothing from use_cases, adapters or infrastructure
 - No secrets in code; settings via environment variables
 - Notebooks are for exploration; nothing in src imports from notebooks
