@@ -1,0 +1,82 @@
+[
+  {
+    "title": "How to Study Statistics in 2027",
+    "url": "https://tracking.example.com/link-06",
+    "source": "Data Elixir",
+    "date": "2027-03-09",
+    "sponsored": false,
+    "text": "As assistants handle more of the routine analysis, which skills still matter most? This post compares three learning paths and explains why sound judgment, careful testing and clear writing remain useful. It ends with a practical reading plan for people who have only a few hours each week."
+  },
+  {
+    "title": "Curved Models in Practice: Parker’s Bowling Scores",
+    "url": "https://tracking.example.com/link-07",
+    "source": "Data Elixir",
+    "date": "2027-03-09",
+    "sponsored": false,
+    "text": "A straight line captures the rough pattern in bowling scores, but it misses what happens near the limits. This walkthrough builds a model from simple physical assumptions and compares the two fits, showing where the extra structure pays off and where it does not."
+  },
+  {
+    "title": "A Starter Guide to Ocean Sensor Data",
+    "url": "https://tracking.example.com/link-08",
+    "source": "Data Elixir",
+    "date": "2027-03-09",
+    "sponsored": false,
+    "text": "Public ocean sensors produce long, messy records that are hard to compare across regions. This guide explains how to align them, handle gaps and turn them into compact features. It covers the main open datasets, shows a few small examples in code and lists the limits you should know before you trust the results."
+  },
+  {
+    "title": "Tips and Tricks for Cleaner Joins in plain SQL",
+    "url": "https://tracking.example.com/link-09",
+    "source": "Data Elixir",
+    "date": "2027-03-09",
+    "sponsored": false,
+    "text": "The slow part of a large join isn't always the join itself. This article measures several common patterns, explains why some of them copy far more data than needed, and offers small changes that help."
+  },
+  {
+    "title": "Is the tipping point next Tuesday?",
+    "url": "https://tracking.example.com/link-10",
+    "source": "Data Elixir",
+    "date": "2027-03-09",
+    "sponsored": false,
+    "text": "Decades ago, a simple growth model predicted that the town’s traffic would become infinite on a specific day. This essay revisits the forecast, explains why it fit the early data so well, and shows what it teaches about extending a curve far beyond the points you actually have."
+  },
+  {
+    "title": "Building Better Helpers",
+    "url": "https://tracking.example.com/link-11",
+    "source": "Data Elixir",
+    "date": "2027-03-09",
+    "sponsored": true,
+    "text": "ExampleCo tested whether small, focused datasets could make software assistants more reliable at routine tasks. Read what changed, which results held up on new examples and how the team measured them."
+  },
+  {
+    "title": "Two Variables, Twice the Fun",
+    "url": "https://tracking.example.com/link-13",
+    "source": "Data Elixir",
+    "date": "2027-03-09",
+    "sponsored": false,
+    "text": "Making a map that shows two variables at once once required many slow, careful steps, but newer tools make it far easier. This tutorial walks through color choices, legend design and common mistakes, with examples that show when a two-variable map helps readers and when two small maps are clearer."
+  },
+  {
+    "title": "Typical Chicago Library Requests",
+    "url": "https://tracking.example.com/link-14",
+    "source": "Data Elixir",
+    "date": "2027-03-09",
+    "sponsored": false,
+    "text": "In a large set of city library requests, the most frequent entry is not the most interesting one. This short analysis finds the requests that set each district apart from the rest of the city."
+  },
+  {
+    "title": "Announcing ExampleDB 3.0.0 LTS",
+    "url": "https://tracking.example.com/link-15",
+    "source": "Data Elixir",
+    "date": "2027-03-09",
+    "sponsored": false,
+    "text": "ExampleDB began as a small, local query engine, but with this release it adds long-term support, faster writes and a stable storage format. The announcement lists the main changes and upgrade steps."
+  },
+  {
+    "title": "toolkit - for building reliable report writing agents",
+    "url": "https://tracking.example.com/link-16",
+    "source": "Data Elixir",
+    "date": "2027-03-09",
+    "sponsored": false,
+    "text": "When your reporting code already works well, it’s wasteful to have an assistant rebuild it on every request. This package lets you wrap tested functions as tools, describe when to use them and check their output, so answers rely on logic your team has already reviewed and understands."
+  }
+]

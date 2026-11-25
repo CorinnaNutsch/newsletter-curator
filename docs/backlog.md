@@ -2,7 +2,7 @@
 
 Concrete tasks for the current and next sprint. Design decisions live in [`design.md`](design.md) and [`adr/`](adr/). Learning goals, reading and long-term planning are kept outside the repo.
 
-Current sprint: **1** (scheduled 19–25 Nov, still in progress).
+Current sprint: **1** (21–27 Nov). Sprints are one week, Saturday to Friday. Detailed tasks cover at most the current and next sprint. Dates are a guide: unfinished tasks move forward, and work can continue next to work from January.
 
 ## Sprint 1: setup, data and baseline
 
