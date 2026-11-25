@@ -1,6 +1,6 @@
 # Data spike: decide the item unit, label three sources
 
-Sprint 0 / first day of Sprint 1. Goal: decide the **item unit** (Project Design, section 6: issue, article link, or both) on real emails, and produce the first **gold sets** for the parser.
+Sprint 0 / first day of Sprint 1. Goal: decide the **item unit** (`docs/design.md` section 6: issue, article link, or both) on real emails, and produce the first **gold sets** for the parser.
 
 MVP sources: **Data Elixir, Data Science Weekly, True Positive Weekly** (all weekly curated-link lists).
 
@@ -27,8 +27,8 @@ Per source, issue 1 and issue 2. Copy the templates from `docs/templates/` to `d
 Read the **rendered** email to decide what is relevant, not only the HTML source. Put the noise in words in `template_notes` (for example: "footer with 6 links, sponsor block after item 3").
 
 ## 4. Decide and write up
-- [ ] Item unit written into Project Design, section 6, with the evidence
-- [ ] "Item unit" ticked in section 12
+- [x] Item unit written into `docs/design.md` section 6, with the evidence in `docs/adr/0001-item-unit.md`
+- [x] "Item unit" ticked in section 12 of `docs/design.md`
 - [ ] Answers to: link mix, blurbs, tracking URLs (recoverable from the email alone?), forwarding, rough overlap between the three sources
 
 ## 5. Then (Sprint 1, tests first)

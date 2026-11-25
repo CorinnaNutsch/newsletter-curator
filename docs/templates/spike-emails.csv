@@ -1,0 +1,2 @@
+email_id,raw_file,source,issue_date,forwarded,n_links_total,n_items,has_blurbs,source_identifiable,template_notes
+2026-11-17-data-elixir,raw_emails/dataelixir_595.eml,Data Elixir,2026-11-17,yes,34,12,yes,yes,example row: replace me
