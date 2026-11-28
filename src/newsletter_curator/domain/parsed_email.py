@@ -1,4 +1,5 @@
 from dataclasses import dataclass
+from datetime import date
 
 
 @dataclass
@@ -12,5 +13,5 @@ class NewsletterArticle:
 @dataclass
 class NewsletterIssue:
     source: str
-    date: str
+    date: date
     articles: list[NewsletterArticle]
